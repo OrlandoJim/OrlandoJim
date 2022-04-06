@@ -1,6 +1,7 @@
 ### Hola, soy Orlando Jiménez👋
 
-Soy egresado 🧑‍🎓 de la Licienciatura en Informática 💻 de la Universidad Veracruzana, con experiencia en el área de soporte técnico , actualmente me encuentro en un curso de formación de Full-Stack Developers llamado LaunchX 🚀 por parte de Innovaccion Virtual de Microsoft. 
+Soy egresado 🧑‍🎓 de la Licienciatura en Informática 💻 de la Universidad Veracruzana <img src="https://media.giphy.com/media/bkfE0WHpVa0bfZdgBx/giphy.gif" width="35px"> , con experiencia en el área de soporte técnico , actualmente me encuentro en un curso de formación de Full-Stack Developers llamado LaunchX 🚀 por parte de Innovaccion Virtual de Microsoft <img src="https://media.giphy.com/media/OEDg5jvoZzYbBxqoRL/giphy.gif" width="25px">. 
+
 <!--
 **OrlandoJim/OrlandoJim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
